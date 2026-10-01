@@ -21,9 +21,8 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 
 ## Открытие и первая загрузка
 
-1. Распакуйте архив. Откройте файл:
-   `firmware/QuantumScatterplot/QuantumScatterplot.ino`.
-   Сохраняйте имя папки QuantumScatterplot совпадающим с именем скетча.
+1. Откройте файл:
+   `QuantumScatterplot.ino`.
 2. Закройте Thonny, screen, программу Python и другие приложения, занимающие порт.
 3. Отключите Pico. Удерживая BOOTSEL, подключите USB; после подключения отпустите кнопку.
 4. В Инструменты → Порт выберите **UF2 Board**, если он отображается, затем нажмите «Загрузить».
